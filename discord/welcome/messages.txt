@@ -1,0 +1,17 @@
+-- Welcome Image
+Welcome to the official **Keyma.sh** Discord server.
+
+https://keyma.sh/discord
+
+-- Rules
+**1.** Follow all Community Guidelines outlined by Discord.
+**2.** Any form of bullying, harassment, hate speech, racism or offensive language is prohibited.
+**3.** Not Safe For Work (NSFW) content is NOT allowed under ANY circumstances.
+**4.** Political, Drugs, Gender or any topics that can be trivial and sensitive are not allowed.
+**5.** Shitposting must be kept to a bare minimum, go to TypeRacer for that.
+
+-- Roles
+@Staff - Developers and Community Managers
+@Moderators - Game and Discord Moderators
+@Testers - Game Testers; Do not have any Moderator power
+@Patreon - Patreon Supporter Exclusive role
