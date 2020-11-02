@@ -1,7 +1,17 @@
 -- Welcome Image
 Welcome to the official **Keyma.sh** Discord server.
 
-https://keyma.sh/discord
+**Open Beta** 
+November 22, 2020
+
+**URL** 
+https://keyma.sh/
+
+**Trello** 
+https://trello.com/b/Rlx2qSvq/keymash
+
+**Discord Invite**
+https://discord.com/invite/df4paUq
 
 -- Rules
 **1.** Follow all Community Guidelines outlined by Discord.
@@ -15,3 +25,13 @@ https://keyma.sh/discord
 <@&720845540333453383> - Game and Discord Moderators
 <@&720848400400252968> - Game Testers; Do not have any Moderator power
 <@&768234456871862274> - Patreon Supporter Exclusive role
+
+-- Contribute
+If you want to either report a bug with the game or the texts, or simply want to provide some constructive feedback on what we could either do better or add? Fill out this form
+https://keyma.sh/feedback
+
+Want to add a favorite quote or text to Keyma.sh?
+https://keyma.sh/submit
+
+Help us out by translating Keyma.sh in different languages across the world
+https://keyma.sh/translation
