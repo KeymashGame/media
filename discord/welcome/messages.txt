@@ -11,14 +11,14 @@ https://keyma.sh/
 https://trello.com/b/Rlx2qSvq/keymash
 
 **Discord Invite**
-https://discord.com/invite/df4paUq
+https://discord.gg/df4paUq
 
 -- Rules
 **1.** Follow all Community Guidelines outlined by Discord.
 **2.** Any form of bullying, harassment, hate speech, racism or offensive language is prohibited.
 **3.** Not Safe For Work (NSFW) content is NOT allowed under ANY circumstances.
 **4.** Political, Drugs, Gender or any topics that can be trivial and sensitive are not allowed.
-**5.** Shitposting must be kept to a bare minimum, go to TypeRacer for that.
+**5.** Shitposting must be kept to a bare minimum.
 
 -- Roles
 <@&720845436130164767> - Developers and Community Managers
