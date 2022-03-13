@@ -1,2 +1,2 @@
-# discord
-Repository where we store all Discord channel information
+# Media
+Repository of all of our assets that are used typically for marketing purposes.
